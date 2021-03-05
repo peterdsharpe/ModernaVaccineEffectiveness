@@ -10,3 +10,4 @@ Disclaimer: I'm an engineer, not a biostatistician - this data analysis and the 
 
 Based on underlying data here:
 
+![data](datafig.png)
